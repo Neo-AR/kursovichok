@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\Kursovichok\functions.h(124,52): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+  (компиляция исходного файла "main.cpp")
+  
+D:\Kursovichok\functions.h(124,52): error C2589: (: недопустимая лексема справа от "::"
+  (компиляция исходного файла "main.cpp")
+  
+D:\Kursovichok\functions.h(124,52): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "main.cpp")
+  
+D:\Kursovichok\functions.h(124,63): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "main.cpp")
+  
